@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anis-shah-610b17232](https://www.linkedin.com/in/anis-shah-610b17232)
 
-- 📝 I regularly write articles on [https://www.princeanisshah.wordpress.com](https://www.princeanisshah.wordpress.com)
+- 📝 I regularly write articles on [https://www.princeanisshah.wordpress.com](https://anissportfolio.web.app)
 
 - 💬 Ask me about **Java, Android Development & Programming.**
 
