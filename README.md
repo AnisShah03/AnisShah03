@@ -1,19 +1,19 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](google.com)
 <h1 align="center">Hi 👋, I'm Anis Shah</h1>
-<h3 align="center">I'm pursuing masters in information technology with specialization of artificial intelligence from University Of Mumbai.</h3>
+<h3 align="center">I've completed masters in information technology with A.I. specialization from University Of Mumbai.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently worked with [Agri-Nation: E-commerce App](https://github.com/AnisShah03/AgriNation)
 
-- 🌱 I’m currently learning **Spring Boot, MySQL, Servlet & Jsp**
+- 🌱 I’m currently learning **Spring Boot, Oracle Database, Servlet & Jsp**
 
 - [Headlines Express: NEWS APP](https://github.com/AnisShah03/Headline-Express)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anis-shah-610b17232](https://www.linkedin.com/in/anis-shah-610b17232)
 
-- 📝 I regularly write articles on [https://anissportfolio.web.app](https://anissportfolio.web.app)
+- 📝 I regularly write blogs on [https://anissportfolio.web.app](https://anissportfolio.web.app)
 
-- 💬 Ask me about **Java, Android Development & Programming.**
+- 💬 Ask me about **Java Programming and Android Development. **
 
 - 📫 How to reach me **anisshaha2001@gmail.com**
 
